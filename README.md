@@ -30,9 +30,9 @@ Este proyecto es una aplicación web que permite a los usuarios ingresar un núm
 
 <br>
 
-<br>
 
-# Telephone Number Validator
+---
+<br>
 
 This project is a web application that allows users to enter a US phone number and verify if it is valid according to a specific format. The application uses a regular expression to validate the number and displays whether it is valid or not in the user interface.
 
